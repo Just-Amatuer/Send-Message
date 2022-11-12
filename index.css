@@ -1,0 +1,82 @@
+body{
+    background-color: #128C7E;
+}
+
+#title{
+    background-color: #25D366;
+    text-align: center;
+    font-size: 11vh;
+    margin-top: 0;
+    color: aliceblue;
+    border-radius: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title:hover{
+    background-color: #34B7F1;
+}
+#firstMessage{
+    font-size: 7vh;
+    margin-top: 5%;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #ff5a5f;
+}
+#firstMessage:hover{
+    color: #E1306C;
+}
+#secondMessage{
+    margin-top: 6%;
+    text-align: right;
+    font-size: 7vh;
+    color: #FC642D;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#secondMessage:hover{
+    color: #F77737;
+}
+#firstInput{
+    font-size: 5vh;
+    margin-top: 10%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #34B7F1;
+    color: #ff5a5f;
+    margin-left: 60px;
+}
+#firstInput:hover{
+    background-color: aquamarine;
+    color: deeppink;
+}
+#firstButton{
+    font-size: 40px;
+    border-radius: 20px;
+    width: 90px;
+    background-color: #FFDC80;
+}
+#firstButton:hover{
+    background-color: #FCAF45;
+}
+#secondInput{
+    font-size: 5vh;
+    margin-top: 10%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #2EB67D;
+    color: #FC642D;
+}
+#secondInput:hover{
+    background-color: aqua;
+}
+#secondButton{
+    font-size: 40px;
+    width: 90px;
+    border-radius: 20px;
+    background-color: #EAFFD0;
+    margin-left: 20%;
+}
+#secondButton:hover{
+    background-color: #95E1D3;
+}
